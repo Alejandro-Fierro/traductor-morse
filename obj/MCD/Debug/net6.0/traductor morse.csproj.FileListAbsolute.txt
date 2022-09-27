@@ -1,0 +1,15 @@
+C:\Users\luisalejandro\Documents\traductor morse\bin\MCD\Debug\net6.0\traductor morse.exe
+C:\Users\luisalejandro\Documents\traductor morse\bin\MCD\Debug\net6.0\traductor morse.deps.json
+C:\Users\luisalejandro\Documents\traductor morse\bin\MCD\Debug\net6.0\traductor morse.runtimeconfig.json
+C:\Users\luisalejandro\Documents\traductor morse\bin\MCD\Debug\net6.0\traductor morse.dll
+C:\Users\luisalejandro\Documents\traductor morse\bin\MCD\Debug\net6.0\traductor morse.pdb
+C:\Users\luisalejandro\Documents\traductor morse\obj\MCD\Debug\net6.0\traductor morse.csproj.AssemblyReference.cache
+C:\Users\luisalejandro\Documents\traductor morse\obj\MCD\Debug\net6.0\traductor morse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisalejandro\Documents\traductor morse\obj\MCD\Debug\net6.0\traductor morse.AssemblyInfoInputs.cache
+C:\Users\luisalejandro\Documents\traductor morse\obj\MCD\Debug\net6.0\traductor morse.AssemblyInfo.cs
+C:\Users\luisalejandro\Documents\traductor morse\obj\MCD\Debug\net6.0\traductor morse.csproj.CoreCompileInputs.cache
+C:\Users\luisalejandro\Documents\traductor morse\obj\MCD\Debug\net6.0\traductor morse.dll
+C:\Users\luisalejandro\Documents\traductor morse\obj\MCD\Debug\net6.0\refint\traductor morse.dll
+C:\Users\luisalejandro\Documents\traductor morse\obj\MCD\Debug\net6.0\traductor morse.pdb
+C:\Users\luisalejandro\Documents\traductor morse\obj\MCD\Debug\net6.0\traductor morse.genruntimeconfig.cache
+C:\Users\luisalejandro\Documents\traductor morse\obj\MCD\Debug\net6.0\ref\traductor morse.dll
